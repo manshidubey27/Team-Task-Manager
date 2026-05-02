@@ -52,3 +52,16 @@ Data Integrity & Relationships
 🌐 Deployment
 This application is deployed using **Railway**, ensuring a seamless CI/CD pipeline. The live version includes a fully connected database and functional 
 backend services.
+
+
+
+
+How to use this application, if there is an error:
+1. First download the zip file.
+2. Open it on you system and extract all the file.
+3. Install node for feature extraction. Then check its version from cmd.
+4. Install the project dependencies using npm install in that file by opening the cmd.
+5. From the env.example file generate the api key for the application from google AI studio for secure connection.
+6. Then open vs code and from the new terminal run the application.
+7. If there is an error in opening the site. First run it in the terminal and then manually type localhost and the port name.
+8. You can view the app on the server.
